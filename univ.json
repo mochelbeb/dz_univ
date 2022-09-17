@@ -1,4 +1,4 @@
-{
+
         {
             "name":"Ecole National Superieure de Mathématiques",
             "alt_name": "Ecole National Superieure de Mathématiques Alger (ENSM)",
@@ -3914,5 +3914,4 @@
             "languages": null,
             "academic_year": null,
             "accrediting_agency": null
-        }
-}
+            }
