@@ -220,8 +220,8 @@
             "accrediting_agency": "Ministère de l'Enseignement supérieur et de la Recherche"
         },
         {
-            "name": "Abderahmane Mira University of Béja\u00c3\u00afa",
-            "alt_name": "Université Abderrahmane Mira de Béja\u00c3\u00afa \u00e2\u20ac\u201c Université de Béja\u00c3\u00afa",
+            "name": "Abderahmane Mira University of Béjaia",
+            "alt_name": "Université Abderrahmane Mira Béjaia",
             "country": "Algeria",
             "state": null,
             "address": {
@@ -242,8 +242,8 @@
             "accrediting_agency": null
         },
         {
-            "name": "Abou Elkacem Sa\u00c3\u00a2dallah University of Algiers 2",
-            "alt_name": "Université Abou Elkacem Sa\u00c3\u00a2dallah d\u00e2\u20ac\u2122Alger 2",
+            "name": "Abou Elkacem Saadallah University of Algiers 2",
+            "alt_name": "Université Abou Elkacem Saadallah d'Alger 2",
             "country": "Algeria",
             "state": null,
             "address": {
@@ -331,7 +331,7 @@
         },
         {
             "name": "Ahmed Draya University of Adrar",
-            "alt_name": "Université Ahmed Dra\u00c3\u00afa d'Adrar",
+            "alt_name": "Université Ahmed Draia d'Adrar",
             "country": "Algeria",
             "state": null,
             "address": {
@@ -437,7 +437,7 @@
             "funding": null,
             "languages": null,
             "academic_year": null,
-            "accrediting_agency": "Ministère de l\u00e2\u20ac\u2122Energie"
+            "accrediting_agency": "Ministère de l'Energie"
         },
         {
             "name": "Amar Telidji University of Laghouat",
@@ -616,13 +616,13 @@
             "accrediting_agency": null
         },
         {
-            "name": "Dr Tahar Moulay University of Sa\u00c3\u00afda",
-            "alt_name": "Université Dr Tahar Moulay de Sa\u00c3\u00afda",
+            "name": "Dr Tahar Moulay University of Saida",
+            "alt_name": "Université Dr Tahar Moulay de Saida",
             "country": "Algeria",
             "state": null,
             "address": {
                 "street": "BP 138, Cité ENNASR",
-                "city": "Sa\u00c3\u00afda",
+                "city": "Saida",
                 "province": null,
                 "postal_code": null
             },
@@ -705,11 +705,11 @@
         },
         {
             "name": "Frères Mentouri University of Constantine",
-            "alt_name": "Université des Frères Mentouri de Constantine \u00e2\u20ac\u201c Université Constantine 1",
+            "alt_name": "Université des Frères Mentouri de Constantine - Université Constantine 1 -",
             "country": "Algeria",
             "state": null,
             "address": {
-                "street": "BP 325, Route de A\u00c3\u00afn-El-Bey",
+                "street": "BP 325, Route de Abn-El-Bey",
                 "city": "Constantine",
                 "province": null,
                 "postal_code": "25017"
@@ -731,7 +731,7 @@
             "country": "Algeria",
             "state": null,
             "address": {
-                "street": "Hay Salem, route nationale N\u00c2\u00b0 19",
+                "street": "Hay Salem, route nationale N 19",
                 "city": "Chlef",
                 "province": null,
                 "postal_code": "02000"
@@ -859,7 +859,7 @@
         },
         {
             "name": "Lounici Ali University of Blida 2",
-            "alt_name": "Université Lounici Ali de Blida 2 \u00e2\u20ac\u201c Université d'El Affroun",
+            "alt_name": "Université Lounici Ali de Blida (El Affroun)",
             "country": "Algeria",
             "state": null,
             "address": {
@@ -1163,7 +1163,7 @@
             "funding": null,
             "languages": null,
             "academic_year": null,
-            "accrediting_agency": "Ministère de la Poste et des Technologies de l\u00e2\u20ac\u2122Information et de la Communication (MPTIC) et du Ministère de l\u00e2\u20ac\u2122Enseignement Supérieur et de la Recherche Scientifique (MESRS)"
+            "accrediting_agency": "Ministère de la Poste et des Technologies de l'Information et de la Communication (MPTIC) et du Ministère de l'Enseignement Supérieur et de la Recherche Scientifique (MESRS)"
         },
         {
             "name": "National Institute of Telecommunications and Information and Communication Technologies",
@@ -1185,7 +1185,7 @@
             "funding": null,
             "languages": null,
             "academic_year": null,
-            "accrediting_agency": "Ministère de la Poste et des Technologies de l\u00e2\u20ac\u2122Information et de la Communication (MPTIC) et du Ministère de l\u00e2\u20ac\u2122Enseignement Supérieur et de la Recherche Scientifique (MESRS)"
+            "accrediting_agency": "Ministère de la Poste et des Technologies de l'Information et de la Communication (MPTIC) et du Ministère de l'Enseignement Supérieur et de la Recherche Scientifique (MESRS)"
         },
         {
             "name": "National Marine Science and Coastal Management School",
@@ -1339,7 +1339,7 @@
             "funding": null,
             "languages": null,
             "academic_year": null,
-            "accrediting_agency": "Ministère de l\u00e2\u20ac\u2122Enseignement Supérieur et de la Recherche Scientifique"
+            "accrediting_agency": "Ministère de l'Enseignement Supérieur et de la Recherche Scientifique"
         },
         {
             "name": "National School of Civil Engineering",
@@ -1475,7 +1475,7 @@
         },
         {
             "name": "National School of Statistics and Applied Economics (Algeria)",
-            "alt_name": "\u00c3\u2030cole nationale supérieure de Statistique et d'\u00c3\u2030conomie appliquée",
+            "alt_name": "Ecole nationale supérieure de Statistique et d'Economie appliquée",
             "country": "Algeria",
             "state": null,
             "address": {
@@ -1562,8 +1562,8 @@
             "accrediting_agency": null
         },
         {
-            "name": "Rachid Harra\u00c3\u00afgue Dely Ibrahim National School of Sports Science",
-            "alt_name": "Ecole nationale supérieure en Sciences et Technologie du Sport Rachid Harra\u00c3\u00afgue Dely Ibrahim (ENS/STS \"Rachid Harra\u00c3\u00afgue\")",
+            "name": "Rachid Harraigue Dely Ibrahim National School of Sports Science",
+            "alt_name": "Ecole nationale supérieure en Sciences et Technologie du Sport Rachid Harraigue Dely Ibrahim (ENSSTS)",
             "country": "Algeria",
             "state": null,
             "address": {
